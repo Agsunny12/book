@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(lightblue, lightgreen);
+}
+
+#h1 {
+    text-align: center;
+}
+
+#hobby {
+    text-align: center;
+}
+
+#ch {
+    text-align: center;
+}
+
+a.hover {
+    color: firebrick;
+}
+
+.button {
+    background: linear-gradient(to right, lightblue, pink);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration-color: forestgreen;
+}
+
+html{
+    scroll-behavior: smooth;
+}
